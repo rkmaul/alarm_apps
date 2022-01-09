@@ -6,6 +6,7 @@ An alarm apps with local notifications, and vertical chart (Y-axis should be how
 To run project : 
 flutter run
 
-
-
-
+## Screenshot Apps
+<p align="center">
+  <img src="image_one.PNG" alt="flutter alarm clock app" title="Screenshot One">
+</p>
