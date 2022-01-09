@@ -14,7 +14,7 @@ flutter run
   <img src="image_five.PNG" alt="flutter alarm clock app" title="Screenshot five">
 </p><br>
 <p align="center">
-  <img src="image_six.PNG" alt="flutter alarm clock app" title="Screenshot six">
+  <img src="image_four.PNG" alt="flutter alarm clock app" title="Screenshot four">
 </p><br>
 Alarm Page View with:<br>
     - Clock Widget<br>
