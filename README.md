@@ -11,11 +11,15 @@ flutter run
   <img src="image_one.PNG" alt="flutter alarm clock app" title="Screenshot One">
 </p><br>
 <p align="center">
-  <img src="image_five.PNG" alt="flutter alarm clock app" title="Screenshot five">
-</p><br>
-<p align="center">
   <img src="image_four.PNG" alt="flutter alarm clock app" title="Screenshot four">
 </p><br>
+<p align="center">
+  <img src="image_fivePNG.PNG" alt="flutter alarm clock app" title="Screenshot five">
+</p><br>
+<p align="center">
+  <img src="image_six.PNG" alt="flutter alarm clock app" title="Screenshot six">
+</p><br>
+
 Alarm Page View with:<br>
     - Clock Widget<br>
     - Alarm Widget<br>
