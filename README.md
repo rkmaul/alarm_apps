@@ -9,29 +9,35 @@ flutter run
 ## Screenshots App
 <p align="center">
   <img src="image_one.PNG" alt="flutter alarm clock app" title="Screenshot One">
-</p>
-Alarm Page View with:
-    - Clock Widget
-    - Alarm Widget
-    - Create Alarm Widget
-    - List Alarm Widget
+</p><br>
+<p align="center">
+  <img src="image_five.PNG" alt="flutter alarm clock app" title="Screenshot five">
+</p><br>
+<p align="center">
+  <img src="image_six.PNG" alt="flutter alarm clock app" title="Screenshot six">
+</p><br>
+Alarm Page View with:<br>
+    - Clock Widget<br>
+    - Alarm Widget<br>
+    - Create Alarm Widget<br>
+    - List Alarm Widget<br>
 
 
 <p align="center">
   <img src="image_two.PNG" alt="flutter alarm clock app" title="Screenshot Two">
 </p>
-Notification badge with:
-    - Alarm Title
-    - Alarm Image
-    - With Notification Sound
+Notification badge with:<br>
+    - Alarm Title<br>
+    - Alarm Image<br>
+    - With Notification Sound<br>
 
 
 <p align="center">
   <img src="image_trhee.PNG" alt="flutter alarm clock app" title="Screenshot Three">
 </p>
-Showdialog with vertical chart:
-    - x is Time Alarm set
-    - y is How many minute taken each time
+Showdialog with vertical chart:<br>
+    - x is Time Alarm set<br>
+    - y is How many minute taken each time<br>
 
 
 
