@@ -1,0 +1,45 @@
+name: bibit_test_apps
+description: A new Flutter project.
+
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.15.0 <3.0.0"
+
+
+dependencies:
+  flutter:
+    sdk: flutter
+  collection: any
+  sqflite: ^2.0.1
+  flutter_local_notifications: ^9.2.0
+  intl : ^0.17.0
+  charts_flutter: ^0.12.0
+  syncfusion_flutter_charts: ^19.4.40
+  shared_preferences: ^2.0.11
+
+  cupertino_icons: ^1.0.2
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+
+  flutter_lints: ^1.0.0
+
+flutter:
+
+  uses-material-design: true
+  assets:
+    - assets/
+  fonts:
+    - family: notoserif
+      fonts:
+        - asset: assets/fonts/NotoSerif-Bold.ttf
+        - asset: assets/fonts/NotoSerif-BoldItalic.ttf
+          weight: 700
+        - asset: assets/fonts/NotoSerif-Italic.ttf
+          weight: 500
+        - asset: assets/fonts/NotoSerif-Regular.ttf
+          weight: 300
